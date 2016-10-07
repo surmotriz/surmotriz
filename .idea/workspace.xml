@@ -67,8 +67,8 @@
     <handled-path value="Y:/public/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="77" />
-    <option name="y" value="41" />
+    <option name="x" value="211" />
+    <option name="y" value="46" />
     <option name="width" value="1128" />
     <option name="height" value="633" />
   </component>
@@ -204,15 +204,15 @@
       <option name="presentableId" value="Default" />
       <updated>1475865311590</updated>
       <workItem from="1475865313317" duration="34000" />
-      <workItem from="1475865357795" duration="1589000" />
+      <workItem from="1475865357795" duration="1839000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1623000" />
+    <option name="totallyTimeSpent" value="1873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="77" y="41" width="1128" height="633" extended-state="0" />
+    <frame x="211" y="46" width="1128" height="633" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30458716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
